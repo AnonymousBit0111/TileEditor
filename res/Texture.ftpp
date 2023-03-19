@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "Archer_idle1.png",
+      "path": "/Users/ilya/NexusSandbox/res/Archer_idle1.png",
+      "folder": ""
+    },
+    {
+      "name": "Archer_idle2.png",
+      "path": "/Users/ilya/NexusSandbox/res/Archer_idle2.png",
+      "folder": ""
+    },
+    {
+      "name": "Archer_idle3.png",
+      "path": "/Users/ilya/NexusSandbox/res/Archer_idle3.png",
+      "folder": ""
+    },
+    {
+      "name": "Archer_idle4.png",
+      "path": "/Users/ilya/NexusSandbox/res/Archer_idle4.png",
+      "folder": ""
+    },
+    {
+      "name": "Archer_idle5.png",
+      "path": "/Users/ilya/NexusSandbox/res/Archer_idle5.png",
+      "folder": ""
+    },
+    {
+      "name": "pixil-frame-0.png",
+      "path": "/Users/ilya/NexusSandbox/res/pixil-frame-0.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "texture",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "JSON (array)",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": false,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

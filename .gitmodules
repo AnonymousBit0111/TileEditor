@@ -1,0 +1,3 @@
+[submodule "lib/Nexus"]
+	path = lib/Nexus
+	url = https://github.com/AnonymousBit0111/Nexus
